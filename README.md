@@ -1,4 +1,4 @@
-# practical-test-13184
+
 Smart Expense Tracker Application
 Project Overview
 The Smart Expense Tracker Application is a Python-based financial management system developed to help users efficiently record, organize, analyze, and visualize their daily expenses. This project provides a simple yet powerful solution for tracking personal spending habits and generating meaningful financial insights.
